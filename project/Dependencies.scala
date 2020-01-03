@@ -28,7 +28,7 @@ object Dependencies {
   lazy val jacksonVersion = "2.5.3"
   lazy val jerseyVersion = "2.24"
   lazy val jsoupVersion = "1.7.3"
-  lazy val mysqlConnectorVersion = "5.1.36"
+  lazy val mysqlConnectorVersion = "8.0.18"
   lazy val oozieClientVersion = "4.2.0"
   lazy val tonyVersion = "0.3.16"
 
